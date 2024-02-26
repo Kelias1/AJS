@@ -1,0 +1,19 @@
+{
+  "name": "@kelias1/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelias1/AJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kelias1/AJS/issues"
+  },
+  "homepage": "https://github.com/Kelias1/AJS#readme"
+}
